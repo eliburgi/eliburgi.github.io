@@ -4,10 +4,10 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "64f20a7401be170419a793d9de27d422",
-"index.html": "7154bda83064245b9fce884d63b68f56",
-"/": "7154bda83064245b9fce884d63b68f56",
-"main.dart.js": "1f17d59b9570f9238a454833f1b735b3",
-"favicon.png": "5dcef449791fa27946b3d35ad8803796",
+"index.html": "86edbdd84ba2cfad76503fbf80cfb16b",
+"/": "86edbdd84ba2cfad76503fbf80cfb16b",
+"main.dart.js": "0742f3fe809e54f2eb8adab0ad049236",
+"favicon.png": "85f76bf7f78ad44d5f6dcea878a2f10d",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "manifest.json": "d58c767586eff66db9e85e79dade3ce6",
@@ -26,7 +26,8 @@ const RESOURCES = {
 "assets/packages/awesome_dialog/assets/flare/info.flr": "bc654ba9a96055d7309f0922746fe7a7",
 "assets/packages/awesome_dialog/assets/flare/question.flr": "1c31ec57688a19de5899338f898290f0",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
-"assets/assets/chatbot.png": "85f76bf7f78ad44d5f6dcea878a2f10d"
+"assets/assets/chatbot.png": "85f76bf7f78ad44d5f6dcea878a2f10d",
+"favicon_old.png": "5dcef449791fa27946b3d35ad8803796"
 };
 
 // The application shell files that are downloaded before a service worker can
