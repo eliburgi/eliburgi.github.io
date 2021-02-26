@@ -1,11 +1,11 @@
 {
-    "name": "chatbot_studio",
-    "short_name": "chatbot_studio",
+    "name": "Chatbot Creator",
+    "short_name": "Chatbot Creator",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "A web-app that lets you build chatbots with a domain-specific language (DSL).",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
